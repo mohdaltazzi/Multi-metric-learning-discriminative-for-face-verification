@@ -1,2 +1,5 @@
-# Multi-metric-learning-discriminative-for-face-verification with YTF dataste
-This is a new model self-paced metric with deep learning (SPDML) for unconstrained face veriﬁcation, various from recently metric learning which utilize a Mahalanobis distance metric. The proposed SPDML learning method like human learning that increment ascending in training from easy to hard samples, then utilize deep learning which trains a set of nonlinear hierarchical functions to project pairs of the face into the same subspace feature, the distance of any positive input pair is lower than a smaller threshold and that of any negative input pair is higher than a bigger threshold, the curriculum is able to control the pace of the leaner. Sequentially, so that discriminative information gradually from easy hard samples can be utilized in deep metric learning. Our model has been proved to avoided and eﬃcient in bad local minima. Our method accomplishes very competitive performance on veriﬁcation face  which used Labeled Faces (LFW) and YouTube Faces (YTF) datasets and getting a better generalization result (Mean=95.43 and 85.26)respectively We prove the robustness of this metric learning model (SPDML) for handling unconstrained images in classiﬁcation, also outperform others methods in metric learning
+This is test only Please see others repository with code and datasets 
+
+
+ Thank you 
+ 
